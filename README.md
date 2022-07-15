@@ -1,1 +1,1 @@
-# zad_9_7
+# Rock Paper Scissors Game
